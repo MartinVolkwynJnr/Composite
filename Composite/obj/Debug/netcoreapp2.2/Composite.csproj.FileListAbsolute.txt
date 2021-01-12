@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\bin\Debug\netcoreapp2.2\Composite.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\bin\Debug\netcoreapp2.2\Composite.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\bin\Debug\netcoreapp2.2\Composite.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\bin\Debug\netcoreapp2.2\Composite.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\obj\Debug\netcoreapp2.2\Composite.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\obj\Debug\netcoreapp2.2\Composite.csproj.CoreCompileInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\obj\Debug\netcoreapp2.2\Composite.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\obj\Debug\netcoreapp2.2\Composite.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\Composite\obj\Debug\netcoreapp2.2\Composite.pdb

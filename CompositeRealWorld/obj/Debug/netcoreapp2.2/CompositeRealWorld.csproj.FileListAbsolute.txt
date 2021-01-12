@@ -1,0 +1,11 @@
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\bin\Debug\netcoreapp2.2\CompositeRealWorld.deps.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\bin\Debug\netcoreapp2.2\CompositeRealWorld.runtimeconfig.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\bin\Debug\netcoreapp2.2\CompositeRealWorld.runtimeconfig.dev.json
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\bin\Debug\netcoreapp2.2\CompositeRealWorld.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\bin\Debug\netcoreapp2.2\CompositeRealWorld.pdb
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\obj\Debug\netcoreapp2.2\CompositeRealWorld.csprojAssemblyReference.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\obj\Debug\netcoreapp2.2\CompositeRealWorld.csproj.CoreCompileInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\obj\Debug\netcoreapp2.2\CompositeRealWorld.AssemblyInfoInputs.cache
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\obj\Debug\netcoreapp2.2\CompositeRealWorld.AssemblyInfo.cs
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\obj\Debug\netcoreapp2.2\CompositeRealWorld.dll
+E:\NetCSharpDesignPatterns\DesignPatternProjects_Martin\Composite\CompositeRealWorld\obj\Debug\netcoreapp2.2\CompositeRealWorld.pdb
